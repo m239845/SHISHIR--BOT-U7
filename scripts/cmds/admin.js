@@ -41,7 +41,7 @@ module.exports = {
 			case "add":
 			case "-a": {
 				if (!isOwner)
-					return message.reply("❌ | Only NX can add operator.");
+					return message.reply("❌ | Only AS can add operator.");
 
 				let uids = [];
 				if (event.type === "message_reply") {
@@ -147,7 +147,7 @@ module.exports = {
 
 				const ownerBox =
 `╭━━━〔 👑 OWNER 〕━━━╮
-│ Name : negative xalman (nx)
+│ Name : 𝘼𝙝𝙢𝙚𝘿’𝙨 𝐒𝐇𝐈𝐒𝐇𝐈𝐑
 │ UID  : ${OWNER}
 ╰━━━━━━━━━━━━━━━━━━━━╯`;
 
