@@ -57,7 +57,7 @@ module.exports = {
 
     const betAmount = parseAmount(args[0]);
     const minBet = 100;
-    const maxBet = 1000000000000;
+    const maxBet = 20000000;
 
     if (isNaN(betAmount) || betAmount < minBet) {
       return message.reply(`🎰 Minimum bet is 100$\nExample: /spin 1k`);
