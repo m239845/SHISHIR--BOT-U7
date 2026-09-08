@@ -22,7 +22,7 @@ module.exports = {
   },
   onStart: async function ({ message, event, usersData, threadsData, api }) {
 
-    if (this.config.author !== 'xalman') {
+    if (this.config.author !== 'SHISHIR ') {
       return message.reply("⚠ Unauthorized author change detected. Command execution stopped.");
     }
 
