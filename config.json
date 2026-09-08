@@ -24,16 +24,16 @@
     "enable": true
   },
   "adminBot": [
-    "61593683823942"
+    "61592841571046"
   ],
   "devUsers": [
-    "61593683823942"
+    ""
   ],
   "premiumUsers": [
-    "61593683823942"
+    ""
   ],
   "vipuser": [
-    "61593683823942"
+    ""
   ],
   "reactBy": {
     "delete": [
@@ -61,8 +61,8 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "🎀♡nx λi♡🦋くめ",
-  "prefix": "/",
+  "nickNameBot": "🦋𝐀𝐘𝐌𝐚 Ɓвz-🫦くめ",
+  "prefix": "!",
   "usePrefix": {
     "enable": true,
     "notes": "if enable is set to false, NO ONE needs a prefix to use commands (global no-prefix mode). Leave this true and use adminUsePrefix below instead for admin-only no-prefix.",
