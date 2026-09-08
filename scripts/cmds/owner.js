@@ -15,15 +15,15 @@ module.exports = {
 
   onStart: async function ({ api, event, message }) {
 
-    const ownerName = "Negative Xalman";
-    const ownerAge = "18";
-    const fbName = "Maybe NX";
-    const messenger = "https://www.facebook.com/xalman.dev";
-    const whatsapp = "https://wa.me/qr/2SDY4QQTMJR7H1";
-    const telegram = "@Negativexalman";
-    const address = "Narsingdi, Dhaka, Bangladesh";
+    const ownerName = "𝘼𝙝𝙢𝙚𝘿’𝙨 𝐒𝐇𝐈𝐒𝐇𝐈𝐑";
+    const ownerAge = "17";
+    const fbName = "YOᙀᖇ ᗩᙖᙖᙀ";
+    const messenger = "https://www.facebook.com/share/1KYq5ad4GE/";
+    const whatsapp = "017493---26";
+    const telegram = "@AhmeD's shishir";
+    const address = "Sirajganj , Rajshahi , Bangladesh";
     const religion = "Islam";
-    const apiServer = "https://xalman-apis.vercel.app";
+    const apiServer = "https://Shishir -apis.vercel.app";
     const relationship = "Single";
     const videoLink = "https://files.catbox.moe/vd43nx.mp4";
     const timeBD = moment().tz("Asia/Dhaka");
